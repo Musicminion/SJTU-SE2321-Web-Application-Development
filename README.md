@@ -74,7 +74,7 @@
 - 然后 GroupBy 用户，sum(XXX)进行求和，统计金额
 - 不会级联的话，就用服务层进行汇总数据
 - 基本上把第一个统计热销榜做出来了，后面的功能就非常简单了
-- 时间戳Date类型的比较可能需要多调试一下，具体可以参考我的代码
+- 时间戳Date类型的比较可能需要多调试一下，具体可以参考我的代码 [难点之统计实现](https://github.com/Musicminion/eBookBackend/blob/master/src/main/java/com/zzq/ebook/repository/OrderItemRepository.java)
 
 
 
