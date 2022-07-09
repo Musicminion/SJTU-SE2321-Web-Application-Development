@@ -1,6 +1,21 @@
 ## SJTU-SE2321-Web-Application-Development 
 
 > 互联网应用开发技术 2022春 完结撒花，感谢陪伴~ (*^_^*)
+
+
+### 课程仓库列表
+**注意：** 以下仓库仅供学习和参考，禁止用来盈利或者其他商业途径，同时请勿转载！
+
+**注意：** 复制、下载下面表格仓库的任何内容即代表您同意使用规约（参见[仓库使用规约](#仓库使用规约)）
+
+|      说明      |                           链接地址                           |
+| :------------: | ---------------------------------------------------------- |
+| 后端代码 |   [【后端代码】：](https://github.com/Musicminion/eBookBackend)  https://github.com/Musicminion/eBookBackend  |
+| 前端代码 |       [【前端代码】：](https://github.com/Musicminion/EBook)  https://github.com/Musicminion/EBook       |
+|   数据库脚本  | [【SQL文件】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development/tree/main/sql)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development/tree/main/sql|
+|      课件      | [【PPT】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-PPT)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-PPT |
+|    课程样例    | [【Example】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-Example)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-Example |
+
 ### 答辩回忆录
 
 | 答辩次数 | 第一次 [3.26] | 第二次 [5.15] | 第三次 [6.19] | 第四次  [7.9] | 平时作业 10次 | 总分 |
@@ -32,18 +47,6 @@ WJS太棒了！！！虽然所有的功能都已经实现了，但是他只要�
 - 不是做完了所有功能就能满分的，助教在第三次、第四次的时候会进行提问！包括但不限于上课教学的内容
 - 平时作业10次基本都是交了就有分，为什么还是有人忘记提交作业了......
 
-### 课程仓库列表
-**注意：** 以下仓库仅供学习和参考，禁止用来盈利或者其他商业途径，同时请勿转载！
-
-**注意：** 复制、下载下面表格仓库的任何内容即代表您同意使用规约（参见[仓库使用规约](#仓库使用规约)）
-
-|      说明      |                           链接地址                           |
-| :------------: | ---------------------------------------------------------- |
-| 后端代码 |   [【后端代码】：](https://github.com/Musicminion/eBookBackend)  https://github.com/Musicminion/eBookBackend  |
-| 前端代码 |       [【前端代码】：](https://github.com/Musicminion/EBook)  https://github.com/Musicminion/EBook       |
-|   数据库脚本  | [【SQL文件】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development/tree/main/sql)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development/tree/main/sql|
-|      课件      | [【PPT】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-PPT)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-PPT |
-|    课程样例    | [【Example】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-Example)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-Example |
 
 ### 仓库使用规约
 1. 任何情况下，不允许在其他网站（例如CSDN、Gitee等第三方网站）转载，
