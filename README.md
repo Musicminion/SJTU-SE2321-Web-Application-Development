@@ -1,6 +1,7 @@
 ## SJTU-SE2321-Web-Application-Development 
 
 > 互联网应用开发技术 2022春 完结撒花，感谢陪伴~ (*^_^*)
+![image](https://user-images.githubusercontent.com/84625273/178091100-d5d5513a-93f6-41ed-8070-79b766667e60.png)
 
 ### 课程仓库列表
 - **注意：** 以下仓库仅供学习和参考，禁止用来盈利或者其他商业途径，同时请勿转载！
