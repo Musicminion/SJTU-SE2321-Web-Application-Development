@@ -16,9 +16,9 @@
 
 |      说明      |                           链接地址                           |
 | :------------: | ---------------------------------------------------------- |
-| 后端仓库的代码 |   [【后端代码】：](https://github.com/Musicminion/eBookBackend)  https://github.com/Musicminion/eBookBackend  |
-| 前端仓库的代码 |       [【前端代码】：](https://github.com/Musicminion/EBook)  https://github.com/Musicminion/EBook       |
-|   数据库脚本文件   | [【SQL文件】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development/tree/main/sql)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development/tree/main/sql|
+| 后端代码 |   [【后端代码】：](https://github.com/Musicminion/eBookBackend)  https://github.com/Musicminion/eBookBackend  |
+| 前端代码 |       [【前端代码】：](https://github.com/Musicminion/EBook)  https://github.com/Musicminion/EBook       |
+|   数据库脚本  | [【SQL文件】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development/tree/main/sql)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development/tree/main/sql|
 |      课件      | [【PPT】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-PPT)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-PPT |
 |    课程样例    | [【Example】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-Example)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-Example |
 
