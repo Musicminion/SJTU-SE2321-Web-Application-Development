@@ -23,8 +23,8 @@
 |    课程样例    | [【Example】：](https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-Example)  https://github.com/Musicminion/SJTU-SE2321-Web-Application-Development-Example |
 
 ### 仓库使用规约
-1. 不允许在其他网站（例如CSDN、Gitee等第三方网站）转载，
-2. 特别针对课件PPT，不允许转载/转售第三方，例如百度文库
+1. 任何情况下，不允许在其他网站（例如CSDN、Gitee等第三方网站）转载，
+2. 任何情况下，特别针对课件PPT，不允许转载/转售第三方，例如百度文库
 3. 禁止商用销售，并且下载的内容仅允许自己代码学习使用
 4. 不允许直接抄袭本开源的代码，并且作为个人的作品提交为自己的大作业
 5. 不要在此仓库的基础上进行二次开发，然后作为商业用途
@@ -63,9 +63,10 @@
 #### 后端统计
 - 考验你SQL基本功的时候到了
 - 首先筛选时间，要指定某个时间段的范围
-- 然后GroupBy，sum(XXX)进行求和
+- 然后GroupBy 用户，sum(XXX)进行求和，统计金额
 - 不会级联的话，就用服务层进行汇总数据
-
+- 基本上把第一个统计热销榜做出来了，后面的功能就非常简单了
+- 时间戳Date类型的比较可能需要多调试一下，具体可以参考我的代码
 
 
 
